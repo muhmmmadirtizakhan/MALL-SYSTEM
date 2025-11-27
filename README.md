@@ -47,7 +47,7 @@ Use these credentials to access the system.
 ---
 
 ## 🔗 Project Link
-[Noor Bakery Invoice System Live Demo](https://muhmmmadirtizakhan.github.io/MALL-SYSTEM/)
+[Noor Bakery Invoice System Live Demo](https://muhmmmadirtizakhan.github.io/ShopCalc/)
 
 ---
 
